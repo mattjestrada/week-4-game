@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://mindbodygreen-res.cloudinary.com/images/c_fill,g_auto,w_370,h_262/q_80,fl_lossy,f_auto/crp/purplecrystalcolleciton-531x369/crystal-healing-treatment-insiders-flocking.jpg");
+}
+
+.jumbotron {
+    background-color: rgb(53, 218, 156);
+}
+
+.container {
+    background-color: rgb(242, 63, 255);
+    border: 20px solid;
+    height: auto;
+    width: auto;
+}
+
+.col-lg-6 {
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(255, 160, 9);
+    height: auto;
+    width: auto;
+    margin: 34px 0px 34px 0px;
+}
+
+.col-lg-3 {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#crystals {
+    padding: 30px 150px 30px 150px;
+    border-top: 20px solid;
+    border-bottom: 20px solid;
+}
